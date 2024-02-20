@@ -1,0 +1,51 @@
+body{
+    
+}
+#navy {
+    background-image:  rgb(14, 158, 206);
+    margin: 50px 50px 0px 120px;
+    width: 800px;
+}
+
+#landing {
+    font-size: 13px;
+    margin-left: 45px;
+}
+header button {
+    font-size: 10px;
+}
+#submit {
+     font-size: 11px;
+     margin-right: 40px;
+}
+li{
+    font-size: 10px;
+}
+main{
+    background-image: linear-gradient( rgb(14, 158, 206), rgb(93, 137, 246));
+}
+#sectionA{
+    background-image: linear-gradient( rgb(14, 158, 206), rgb(93, 137, 246));
+    /* clip-path: polygon(0 0, 100% 0, 100% 95%, 0 100%); */
+
+    
+}
+#fly {
+    margin-top: 40px;
+}
+h6{
+    font-size: 12px;
+    
+}
+
+#form{
+    box-shadow: 4px 2px 10px 10px rgb(73, 122, 245);
+}
+input{
+    font-size: small;
+    margin: 1.5px;
+    background-color: rgb(223, 221, 221);
+    border-radius: 2px;
+    color: rgb(64, 62, 62);
+    
+}
